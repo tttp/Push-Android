@@ -21,7 +21,7 @@ This is the repository for the Android app portion of the Push app ecosystem. Th
 
 1. Clone this repository ```git clone https://github.com/PushOCCRP/Push-Android```
 2. Create the app in the [Google Play Developer Console](https://play.google.com/apps/publish)
-3. Create the app in the [Firebase Conosle](https://console.firebase.google.com/?pli=1)
+3. Create the app in the [Firebase Console](https://console.firebase.google.com/?pli=1)
 4. After choosing your new app, look to the left side of the conosle, click the "notifications" menu item.
 5. Enter the app id and name (make sure it's the same as in the push generator configuration file)
 6. A file called ```google-services.json``` should automatically download.
